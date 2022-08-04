@@ -3,7 +3,7 @@
 ### Bem vindo(a), sou Giselle Barbosa 👋
 
 - :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou estudando Javascript e Typescript.
+- 🌱 Atualmente estou estudando Javascript, Typescript, Angular e Java.
 - :dart: Estou em busca de uma oportunidade de estágio.
 
 <div align="center">

@@ -3,9 +3,10 @@
 ### Bem vindo(a), sou Giselle Barbosa 👋
 
 - :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas.
+- :briefcase: Estagiária na IBM Brasil desde Agosto 2022
 - 🌱 Atualmente estou estudando Javascript, Typescript, Angular e Java.
-- :dart: Estou em busca de uma oportunidade de estágio.
 
+<br>
 <div align="center">
   <a href="https://github.com/GiselleBarbosa">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GiselleBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

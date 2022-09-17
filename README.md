@@ -5,16 +5,16 @@
 - :briefcase: Estagiária na IBM Brasil desde Agosto 2022 (Dev Front End Intern at IBM Brazil)
 - 🌱 Learning Javascript, Typescript and Angular.
 #
-<div style="display: inline_block">
+<div align="center" style="display: inline_block>
  <a href="https://github.com/GiselleBarbosa">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GiselleBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleBarbosa&layout=compact&langs_count=7&theme=dracula"/></a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleBarbosa&layout=compact&langs_count=7&theme=dracula"/></a></div> 
 
 #
 
 ## Linguagens
 <div>
-<img alt="Javascript" height="45" width="45"src="https://user-images.githubusercontent.com/93397497/190875179-03238a42-16c7-48bd-93d8-4d227259825d.png">
+<img alt="Javascript" height="45" width="45" src="https://user-images.githubusercontent.com/93397497/190875179-03238a42-16c7-48bd-93d8-4d227259825d.png">
 <img alt="Typescript" height="45" width="45" src="https://user-images.githubusercontent.com/93397497/190875273-44dd82c7-5221-4f4e-afc2-91996f2977b3.png">
 <img alt="HTML" height="45" width="45" src="https://user-images.githubusercontent.com/93397497/190875198-7684bcbe-49c1-41e7-b625-54017acb7383.png"><img alt="CSS" height="45" width="45" src="https://user-images.githubusercontent.com/93397497/190875227-18109f01-5813-4c26-93a0-42ba77534f5c.png"> 
 </div> 

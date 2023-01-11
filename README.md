@@ -1,9 +1,10 @@
 ## Hello World! 👋
 ### Welcome, 
 
+:earth_americas: From São Paulo - Brazil  
 :mortar_board: Systems Analysis and Development Student  
 :briefcase: Frontend Developer Inter at IBM Brazil  
-🌱 Learning Javascript, Typescript and Angular  
+:seedling: Learning Javascript, Typescript and Angular  
 
 #
 <div align="center" style="display: inline_block">

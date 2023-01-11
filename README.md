@@ -1,9 +1,9 @@
 ## Hello World! 👋
 ### Welcome, 
 
-:mortar_board: Estudante de Análise e Desenvolvimento de Sistemas - Systems Analysis and Development Student  
-:briefcase: Estagiária em Desenvolvimento Frontend na IBM Brasil - Frontend Developer Inter at IBM Brazil  
-🌱 Aprendendo Javascript, Typescript e Angular - Learning Javascript, Typescript and Angular  
+:mortar_board: Systems Analysis and Development Student  
+:briefcase: Frontend Developer Inter at IBM Brazil  
+🌱 Learning Javascript, Typescript and Angular  
 
 #
 <div align="center" style="display: inline_block">

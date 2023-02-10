@@ -16,9 +16,9 @@
                                                                                                                                                   
 ### Knowledge  
                                                                                                                                                  
-<div style="display: inline">  
+<div style="display: inline"><a href="https://www.linkedin.com/in/gisellebarb"><img  title="Typescript" alt="Typescript" height="30" width="30" src="https://user-images.githubusercontent.com/93397497/190875273-44dd82c7-5221-4f4e-afc2-91996f2977b3.png">  
 <img alt="Javascript" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<a href="https://www.linkedin.com/in/gisellebarb"><img  title="Typescript" alt="Typescript" height="30" width="30" src="https://user-images.githubusercontent.com/93397497/190875273-44dd82c7-5221-4f4e-afc2-91996f2977b3.png"></a><a href="https://www.linkedin.com/in/gisellebarb"><img title="HTML 5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a><a href="https://www.linkedin.com/in/gisellebarb">
+</a><a href="https://www.linkedin.com/in/gisellebarb"><img title="HTML 5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a><a href="https://www.linkedin.com/in/gisellebarb">
 <img title="CSS" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </a>
 <a href="https://www.linkedin.com/in/gisellebarb"><img title="Angular" alt="Angular" height="36" width="36"  src="https://img.icons8.com/fluency/256/angularjs.png"></a><a href="https://www.linkedin.com/in/gisellebarb"><img title="VS Code" alt="VS Code" height="30" width="35" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg"></a><a href="https://www.linkedin.com/in/gisellebarb">

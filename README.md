@@ -1,44 +1,54 @@
-## Hello World! 👋
-### Welcome, 
-
+## Hello World!👋
+  
+  
+:computer: I´m Giselle Barbosa  
 :earth_americas: From São Paulo - Brazil  
 :mortar_board: Systems Analysis and Development Student  
 :briefcase: Frontend Developer Inter at IBM Brazil  
-:seedling: Learning Javascript, Typescript and Angular  
+:seedling: Learning Angular  
+  
+  
+____ 
 
-#
+
+### Technologies  
+
+These are some of the technologies and tools that I work with:
+
+<div> 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+ </div> 
+ 
+____   
+ 
+ ### Contact
+
+[![Linkedin: Giselle](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gisellebarb/)](https://www.linkedin.com/in/gisellebarb/) 
+[![Gmail: Giselle](https://img.shields.io/badge/Gmail-D14836?style=style=flat-square&logo=gmail&logoColor=white&link=mailto:giselle.barbosadev@gmail.com)](mailto:giselle.barbosadev@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=style=flat-square&logo=github&logoColor=white&link=https://gisellebarbosa.github.io/portfolio/)](https://gisellebarbosa.github.io/portfolio/)
+
+____
+
 <div align="center" style="display: inline_block">
  <a href="https://github.com/GiselleBarbosa">
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=GiselleBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleBarbosa&layout=compact&langs_count=7&theme=dracula"/></a></div> 
-                                                                                                                                                   
-#
-                                                                                                                                                  
-### Knowledge  
-                                                                                                                                                 
-<div style="display: inline">
-<a href="https://www.linkedin.com/in/gisellebarb"><img  title="Typescript" alt="Typescript" height="30" width="30" src="https://user-images.githubusercontent.com/93397497/190875273-44dd82c7-5221-4f4e-afc2-91996f2977b3.png"></a>
-<a href="https://www.linkedin.com/in/gisellebarb"><img alt="Javascript" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-<a href="https://www.linkedin.com/in/gisellebarb"><img title="HTML 5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-<a href="https://www.linkedin.com/in/gisellebarb">
-<img title="CSS" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<a href="https://www.linkedin.com/in/gisellebarb"><img title="Angular" alt="Angular" height="36" width="36"  src="https://img.icons8.com/fluency/256/angularjs.png"></a>
-<a href="https://www.linkedin.com/in/gisellebarb">
-<img title="VS Code" alt="VS Code" height="30" width="35" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg"></a>  
-<a href="https://www.linkedin.com/in/gisellebarb"><img title="Node JS" alt="Node JS" height=30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
-</a>
-<a href="https://www.linkedin.com/in/gisellebarb">
-<img title="NPM" alt="NPM" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg">
-</a>
-</div>
- 
- #   
   
- ### Contact-me
-<div style="display: inline_block">
-<a href="mailto:giselle.barbosadev@gmail.com"><img title="send a email" width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"></a> <a href="https://www.linkedin.com/in/gisellebarb/" target="_blank"><img title="LinkedIn" width="35" height="35" src="https://user-images.githubusercontent.com/93397497/173881361-44ebc3a1-211a-4550-a44a-73a7438bd1b7.png" target="_blank"></a> <a href="https://gisellebarbosa.github.io/portfolio/" target="_blank"><img title="Portfolio" width="35" height="35" src="https://user-images.githubusercontent.com/93397497/173899426-9a6e8a5c-06db-4507-a3d7-eec6e64eaf35.png" target="_blank"></a>
-</div>
-
-  #  
+____
+<div align="center"> 
   
  ![Snake animation](https://github.com/GiselleBarbosa/GiselleBarbosa/blob/output/github-contribution-grid-snake.svg)
+
+<div> 

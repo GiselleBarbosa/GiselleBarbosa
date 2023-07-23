@@ -4,9 +4,7 @@
 :computer: I´m Giselle Barbosa  
 :earth_americas: From São Paulo - Brazil  
 :mortar_board: Systems Analysis and Development Student  
-:briefcase: Software Developer Intern at IBM Brazil  
-:seedling: Learning Angular  
-
+:briefcase: Software Engineer - Intern at IBM Brazil  
 ____ 
 
 ### Technologies  

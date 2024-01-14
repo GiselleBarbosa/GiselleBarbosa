@@ -2,7 +2,6 @@
   
 :computer: I´m Giselle Barbosa  
 :earth_americas: From São Paulo - Brazil  
-:mortar_board: Systems Analysis and Development Student  
 :briefcase: Software Developer - Frontend
 ____ 
 

@@ -39,7 +39,7 @@ ____
 
 [![linkedin](https://angular-portfolio-giselle.vercel.app/assets/images/contact-page/linkedin.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![gmail](https://angular-portfolio-giselle.vercel.app/assets/images/contact-page/gmail.png)](mailto:gisellebarbosadevops@gmail.com) 
-<a href="https://angular-portfolio-giselle.vercel.app"><img alt="portfolio" width="46px" src="https://raw.githubusercontent.com/GiselleBarbosa/angular-portfolio-giselle/master/src/assets/images/contact-page/working.png?token=GHSAT0AAAAAACLO6YD7EL3LVP4CUS3HPCPYZNEPYIQ" /></a>
+<a href="https://angular-portfolio-giselle.vercel.app"><img alt="portfolio" width="46px" src="https://cdn-icons-png.flaticon.com/512/2219/2219609.png" /></a>
 ____
 
 <div align="center" style="display: inline_block">

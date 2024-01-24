@@ -32,7 +32,7 @@
 [![gmail](https://angular-portfolio-giselle.vercel.app/assets/images/contact-page/gmail.png)](mailto:gisellebarbosadevops@gmail.com) 
 <a href="https://angular-portfolio-giselle.vercel.app"><img alt="portfolio" width="46px" src="https://images.vexels.com/media/users/3/205387/isolated/lists/9e5a4a16e78a187fc3e47fc6e2c5f03a-traco-do-icone-do-site-da-internet.png" /></a>
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
  <a href="https://github.com/GiselleBarbosa">
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=GiselleBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleBarbosa&layout=compact&langs_count=7&theme=dracula"/></a>

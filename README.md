@@ -1,7 +1,6 @@
 ### Hello World!👋
-___
 
-👩🏻‍💻I'm Giselle Barbosa  
+👩🏻‍💻 I'm Giselle Barbosa  
 :earth_americas: From São Paulo - Brazil  
 🖥️ Frontend Developer at IBM <br>
 🎓Analysis and systems development student 

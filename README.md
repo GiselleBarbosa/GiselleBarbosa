@@ -6,7 +6,7 @@
 🎓Analysis and systems development student 
 
 
-### Technologies and Tools 
+### Technologies and tools 
 
 [![html](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/html.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![css](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/css.png)](https://www.linkedin.com/in/gisellebarb/) 

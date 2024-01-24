@@ -23,7 +23,6 @@
 [![mongodb](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/mongodb.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![figma](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/figma.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![git](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/git.png)](https://www.linkedin.com/in/gisellebarb/) 
-[![github](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/github.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![npm](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/npm.png)](https://www.linkedin.com/in/gisellebarb/) 
 
  

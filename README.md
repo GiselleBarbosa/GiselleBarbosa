@@ -1,26 +1,22 @@
 ### Hello World!👋
-  
-:computer: I´m Giselle Barbosa  
+___
+
+👩🏻‍💻I'm Giselle Barbosa  
 :earth_americas: From São Paulo - Brazil  
-:briefcase: Software Developer - Frontend
-____ 
+🖥️ Frontend Developer at IBM <br>
+🎓Analysis and systems development student 
 
-### Technologies  
 
-These are some of the technologies and tools that I work with:
-
-<div> 
+### Technologies and Tools 
 
 [![html](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/html.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![css](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/css.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![javascript](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/javascript.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![typescript](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/typescript.png)](https://www.linkedin.com/in/gisellebarb/) 
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="45px" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular Icone"  />
-</a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="45px" src="https://seeklogo.com/images/R/rxjs-logo-1C13E67498-seeklogo.com.png" alt="RXJS Icone"  />
-</a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="42px" src="https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/material.png" alt="Angular Material" />
-</a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="42px" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" /></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="45px" src="https://seeklogo.com/images/R/rxjs-logo-1C13E67498-seeklogo.com.png" alt="RxJS"/></a>
+<a href="https://www.linkedin.com/in/gisellebarb/"><img width="42px" src="https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/material.png" alt="Angular" /></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="45px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="NestJS" /></a>
 [![bootstrap](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/bootstrap.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![sass](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/sass.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![visual-studio-code](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/visual-studio-code.png)](https://www.linkedin.com/in/gisellebarb/) 
@@ -31,16 +27,11 @@ These are some of the technologies and tools that I work with:
 [![github](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/github.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![npm](https://angular-portfolio-giselle.vercel.app/assets/images/skills-page/languages/npm.png)](https://www.linkedin.com/in/gisellebarb/) 
 
- </div> 
-
-____ 
  
- ### Contact
-
+### Contact me
 [![linkedin](https://angular-portfolio-giselle.vercel.app/assets/images/contact-page/linkedin.png)](https://www.linkedin.com/in/gisellebarb/) 
 [![gmail](https://angular-portfolio-giselle.vercel.app/assets/images/contact-page/gmail.png)](mailto:gisellebarbosadevops@gmail.com) 
-<a href="https://angular-portfolio-giselle.vercel.app"><img alt="portfolio" width="46px" src="https://cdn-icons-png.flaticon.com/512/2219/2219609.png" /></a>
-____
+<a href="https://angular-portfolio-giselle.vercel.app"><img alt="portfolio" width="46px" src="https://images.vexels.com/media/users/3/205387/isolated/lists/9e5a4a16e78a187fc3e47fc6e2c5f03a-traco-do-icone-do-site-da-internet.png" /></a>
 
 <div align="center" style="display: inline_block">
  <a href="https://github.com/GiselleBarbosa">

@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I'm Giselle Barbosa  
 :earth_americas: From São Paulo - Brazil  
-🖥️ Application Developer at IBM <br>
+🖥️ Software Engineer <br>
 
 ### Technologies and tools 
 [![html](https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/html.png)](https://www.linkedin.com/in/gisellebarb/) 

@@ -1,6 +1,6 @@
 #### Hello World! <img align="center" width="18px" src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/></a>
  
-I'm from São Paulo, Brazil and I'm currently a full stack developer. Welcome to my Github.
+I'm from São Paulo, Brazil and I'm currently a Application Developer. Welcome to my Github.
 
 #### Some of the technologies I work on
 [![html](https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/html.png)](https://www.linkedin.com/in/gisellebarb/) 

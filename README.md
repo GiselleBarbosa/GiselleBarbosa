@@ -1,6 +1,6 @@
 ### Hello world
 
-- Estagiária em Engenharia de Software no Itaú Unibanco
+- Estagiária no Itaú Unibanco
 - Graduada em Analise e Desenvolvimento de Sistemas
 - Cursando Engenharia de Software
 - Apaixonada por tecnologia

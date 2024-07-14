@@ -1,8 +1,7 @@
 ### Hello world
 
 - Estagiária no Itaú Unibanco
-- Graduada em Analise e Desenvolvimento de Sistemas
-- Cursando Engenharia de Software
+- Graduada em Análise e Desenvolvimento de Sistemas
 - Apaixonada por tecnologia
 
 ### Tecnologias e Ferramentas

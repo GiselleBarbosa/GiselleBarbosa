@@ -4,7 +4,7 @@
 - Graduada em Análise e Desenvolvimento de Sistemas
 - Apaixonada por tecnologia
 
-### Tecnologias e Ferramentas
+### Tecnologias e Ferramentas com as quais trabalho
 
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/spring-boot.png" alt="Spring Boot" /></a>
@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/git.png" alt="PostgreSQL" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Insomnia"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/prometheus.png" alt="Prometheus"/></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/grafana.png" alt="Grafana"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/javascript.png" alt="Javascript"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/typescript.png" alt="Typescript"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/node.png" alt="Node JS"/></a>

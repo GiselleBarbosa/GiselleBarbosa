@@ -3,7 +3,7 @@
 Conheça os detalhes de minha trajetória em meu [**Portfólio**](https://gisellebarbosa.vercel.app/), construído em Angular.
 
 ---
-### Tecnologias e Ferramentas com as quais trabalho
+#### Tecnologias e Ferramentas com as quais trabalho
 
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/spring-boot.png" alt="Spring Boot" /></a>
@@ -20,14 +20,14 @@ Conheça os detalhes de minha trajetória em meu [**Portfólio**](https://gisell
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://seeklogo.com/images/R/rxjs-logo-1C13E67498-seeklogo.com.png" alt="RxJS"/></a>
 
 ---
-### Contatos
+#### Contatos
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/gisellebarb/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:gisellebarbosadevops@gmail.com) 
 [![Portfólio](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gisellebarbosa.vercel.app/)
 
 ---
 
-### Status
+#### Status
 
 <a href="https://github.com/GiselleBarbosa">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleBarbosa&layout=compact&langs_count=5&theme=dracula"/>

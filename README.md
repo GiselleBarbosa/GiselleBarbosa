@@ -10,15 +10,15 @@
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/spring-boot.png" alt="Spring Boot" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" /></a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/postgre.png" alt="PostgreSQL" /></a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Insomnia"/></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="28px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/postgre.png" alt="PostgreSQL" /></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="28px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Insomnia"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/></a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/prometheus.png" alt="Prometheus"/></a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/grafana.png" alt="Grafana"/></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="30px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/prometheus.png" alt="Prometheus"/></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="30px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/grafana.png" alt="Grafana"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/javascript.png" alt="Javascript"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/typescript.png" alt="Typescript"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/node.png" alt="Node JS"/></a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/angular.png" alt="Angular" /></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="39px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/angular.png" alt="Angular" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://seeklogo.com/images/R/rxjs-logo-1C13E67498-seeklogo.com.png" alt="RxJS"/></a>
 
 ---

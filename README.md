@@ -14,12 +14,12 @@ Conheça os detalhes de minha trajetória em meu [**[Portfólio]**](https://gise
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/java.png" alt="Java" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/spring-boot.png" alt="Spring Boot" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/mysql.svg" alt="MySQL" /></a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/mongodb.svg" alt="MySQL" /></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/mongodb.svg" alt="MongoDb" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="28px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/postgre.png" alt="PostgreSQL" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="28px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/insomnia.png" alt="Insomnia"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="40px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/docker.svg" alt="Docker"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="30px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/terraform.svg" alt="Terraform"/></a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="30px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/grafana.png" alt="Grafana"/></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="30px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/aws.png" alt="AWS"/></a>https://www.linkedin.com/in/gisellebarb/
 
 ---
 #### Contatos

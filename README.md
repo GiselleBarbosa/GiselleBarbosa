@@ -19,7 +19,7 @@ Conheça os detalhes de minha trajetória em meu [**[Portfólio]**](https://gise
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="28px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/insomnia.png" alt="Insomnia"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="40px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/docker.svg" alt="Docker"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="30px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/terraform.svg" alt="Terraform"/></a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="30px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/aws.png" alt="AWS"/></a>https://www.linkedin.com/in/gisellebarb/
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="40px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/aws.png" alt="AWS"/></a>
 
 ---
 #### Contatos

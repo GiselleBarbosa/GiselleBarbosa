@@ -11,7 +11,7 @@ Conheça os detalhes de minha trajetória em meu [**[Portfólio]**](https://gise
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/node.png" alt="Node JS"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="39px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/angular.png" alt="Angular" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/rxjs.png" alt="RxJS"/></a>
-<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/java.png" alt="Java" /></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="39px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/java.png" alt="Java" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/spring-boot.png" alt="Spring Boot" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/mysql.svg" alt="MySQL" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/mongodb.svg" alt="MongoDb" /></a>

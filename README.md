@@ -8,10 +8,11 @@ Conheça meus projetos e minha trajetória em meu [**Portfólio**](https://gisel
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="40px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/typescript.png" alt="Typescript"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="46px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/angular.png" alt="Angular" /></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="36px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/rxjs.png" alt="RxJS"/></a>
+<a href="https://www.linkedin.com/in/gisellebarb/" ><img width="40px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/node.png" alt="Node JS"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="43px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/aws.png" alt="AWS"/></a>
 </div>
 <p align="center">
-  <sub>Back-end: Java • Spring Boot • Node JS • PostgreSQL • Docker</sub>
+  <sub>Back-end: Java • Spring Boot • PostgreSQL • Docker</sub>
 </p>
 
 ---

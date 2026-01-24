@@ -1,4 +1,7 @@
-Conheça os detalhes de minha trajetória em meu [**[Portfólio]**](https://gisellebarbosa.vercel.app/), construído em Angular.
+Olá, eu sou a Giselle Barbosa 👋  
+**Front-end Software Engineer (Angular)**  
+
+Projetos e trajetória: [**Portfólio**](https://gisellebarbosa.vercel.app)
 
 ---
 #### Tecnologias e Ferramentas com as quais trabalho

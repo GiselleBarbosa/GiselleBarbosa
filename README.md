@@ -11,7 +11,7 @@ Conheça meus projetos e minha trajetória em meu [**Portfólio**](https://gisel
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="43px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/aws.png" alt="AWS"/></a>
 </div>
 <p align="center">
-  <sub>Back-end & Infra: Java • Spring Boot • Node JS • PostgreSQL • Docker</sub>
+  <sub>Back-end: Java • Spring Boot • Node JS • PostgreSQL • Docker</sub>
 </p>
 
 ---

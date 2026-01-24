@@ -1,11 +1,7 @@
-Olá, eu sou a Giselle Barbosa 👋  
-**Front-end Software Engineer (Angular)**  
-
-Projetos e trajetória: [**Portfólio**](https://gisellebarbosa.vercel.app)
+Olá, eu sou a Giselle Barbosa, Engenheira de software especializada em **Desenvolvimento Front-end**.  
+Conheça meus projetos e minha trajetória em meu [**Portfólio**](https://gisellebarbosa.vercel.app), construído em Angular.
 
 ---
-#### Tecnologias e Ferramentas com as quais trabalho
-
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/javascript.png" alt="Javascript"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/typescript.png" alt="Typescript"/></a>
 <a href="https://www.linkedin.com/in/gisellebarb/" ><img width="33px" src="https://gisellebarbosa.vercel.app/assets/images/skills-page/languages/node.png" alt="Node JS"/></a>

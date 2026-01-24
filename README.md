@@ -30,7 +30,6 @@ Conheça meus projetos e minha trajetória em meu [**Portfólio**](https://gisel
 
 </div>
 
----
 ![GitHub User's stars](https://img.shields.io/github/stars/GiselleBarbosa)
 
 

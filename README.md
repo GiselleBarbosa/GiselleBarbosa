@@ -1,4 +1,5 @@
 Olá, eu sou a Giselle Barbosa, Engenheira de software especializada em **Desenvolvimento Front-end**.  
+
 Conheça meus projetos e minha trajetória em meu [**Portfólio**](https://gisellebarbosa.vercel.app), construído em Angular.
 
 ---
